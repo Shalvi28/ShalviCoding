@@ -1,0 +1,14 @@
+package javacoding;
+
+public class largestofthreenumber {
+
+	public static void main(String[] args) {
+		int a = 52;
+		int b = 48;
+		int c = 97;
+		int largestnumber = (a > b) ? (a > c ? a : c) : (b > c ? b : c);
+		System.out.println(largestnumber);
+
+	}
+
+}
