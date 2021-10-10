@@ -1,0 +1,21 @@
+package JavaCoding;
+public class DataTypes {
+public static void main(String[] args) {
+byte my_age = 25;
+short my_salary = 20000;
+int pincode = 1330001;
+long my_phone = 9895686;
+float percentage = 201236655;
+double annualsalary = 275638.2365565;
+boolean isIndian = true;
+char section = 'S';
+System.out.println(my_age);
+System.out.println(my_salary);
+System.out.println(pincode);
+System.out.println(my_phone);
+System.out.println(percentage);
+System.out.println(annualsalary);
+System.out.println(isIndian);
+System.out.println(section);
+}
+}
